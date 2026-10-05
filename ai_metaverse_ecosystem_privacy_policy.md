@@ -3,7 +3,7 @@
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact Email:** tshiajan@gmail.com  
+**Contact Email:** janairedev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-metaverse-ecosystem-privacy/
 
 ---
@@ -83,5 +83,5 @@ We may update our Privacy Policy periodically to reflect changes in our practice
 If you have any questions, suggestions, or concerns regarding this Privacy Policy or our privacy practices, please contact:
 
 **Developer:** Tshiamo Jantjie  
-**Email:** tshiajan@gmail.com  
+**Email:** janairedev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-metaverse-ecosystem-privacy/
